@@ -1,0 +1,6 @@
+export const ADDPRODUCT = 'ADDPRODUCT';
+export const DELETEPRODUCT = 'DELETEPRODUCT';
+
+export const ADD_CONTACT = 'ADD_CONTACT';
+export const DELETE_CONTACT = 'DELETE_CONTACT';
+export const RESET_CONTACT = 'RESET_CONTACT';
